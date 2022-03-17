@@ -1,0 +1,27 @@
+In this document, will explain my feedbacks on what have gone wrong and what have gone easy.
+
+The first step for me was to install GPT-3 on my Unity project, i decided to install it, with Nuget, everything was ok until i tried to code.
+i had a bunch of errors telling me that my libs where not in the project despite i saw them.
+I go into internet to see if it was a recurrent problem and it was, the solution was to add the .DLL to unity Plugins files, then everything worked.
+
+
+I then try to use GPT-3 with your example, days during i was trying to understand why in the playground of OPENAI with the same settings i had different outputs.
+
+In the playground everything was ok, the prints where correct however in Unity i got nothing, at least i thought i had nothing.
+The reality was a problem of Syntax , i dont know yet why, but in Unity there was a bunch of \n before GPT-3 response, so i did not saw in the console
+outpus that the Yes or the No was here. After understanding that i started parse my output to just have a Yes or a No
+
+I then easily made my bot script witch display a neutral / positive or negative face.
+
+I make it all work together and now the project work.
+
+
+I did not have any technical difficulties, it was just problems of seeing outpus .
+
+
+I m sorry due to COVID my parents gets this week i did not had time to make the cherry on cakes but i have ideas about how i would have done it.
+
+
+I m availaibe everyday beetween 10 and 18.
+
+Thanks for reading.
